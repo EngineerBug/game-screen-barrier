@@ -1,0 +1,7 @@
+# These three togeather ignore the executables gcc produces.
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Unignore all dirs
+!*/
